@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">min3D framework examples</string>
+    <string name="splashTitle">Studying the source of this app is the best way to start learning min3D:\nhttp://code.google.com/p/min3d</string>
+    <string name="projectUrl">http://code.google.com/p/min3d</string>
+    <string name="myBlogUrl">http://www.zeropointnine.com/blog</string>
+    <string name="sharedUserId" translate="false"><xliff:g id="x"></xliff:g></string> 
+    <string name="process" translate="false"><xliff:g id="x"></xliff:g></string>
+    
+        <!-- Permissions: -->
+    <skip />
+    <!-- Permission short label -->
+    <string name="permlab_install_shortcut">install shortcuts</string>
+    <!-- Permission description -->
+    <string name="permdesc_install_shortcut">Allows an application to add
+        shortcuts without user intervention.</string>
+    <!-- Permission short label -->
+    <string name="permlab_uninstall_shortcut">uninstall shortcuts</string>
+    <!-- Permission description -->
+    <string name="permdesc_uninstall_shortcut">Allows an application to remove
+        shortcuts without user intervention.</string>
+    <!-- Permission short label -->
+    <string name="permlab_read_settings">read Home settings and shortcuts</string>
+    <!-- Permission description -->
+    <string name="permdesc_read_settings">Allows an application to read the settings and
+        shortcuts in Home.</string>
+    <!-- Permission short label -->
+    <string name="permlab_write_settings">write Home settings and shortcuts</string>
+    <!-- Permission description -->
+    <string name="permdesc_write_settings">Allows an application to change the settings and
+        shortcuts in Home.</string>
+    <string name="spinner_1_color">Effects</string>
+    <string name="spinner_1_color_prompt">make ur choice</string>
+    <string name="OK">ok</string>
+</resources>  
